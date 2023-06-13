@@ -14,3 +14,4 @@
 Программа реализует простой пример хеширования с линейной адресацией и поиска элемента в хеш-таблице.
 
 https://disk.yandex.ru/i/v_9ocEARObNRFw
+https://disk.yandex.ru/i/7apejGT3cy-Jjw
